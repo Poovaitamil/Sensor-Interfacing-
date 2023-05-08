@@ -82,8 +82,7 @@ delay(500);</br>
 
 ## OUTPUT:
 
-![Uploading image.png…]()
-
+![image](https://user-images.githubusercontent.com/132209885/236766627-6403f353-b33c-494d-8871-bc3b1efcfe75.png)
 
 ## RESULT:
 Thus the distance of the obstacle is measured using ultrasonic sensor and display the value in serial monitor using Arduino UNO controller.
